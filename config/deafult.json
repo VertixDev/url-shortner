@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://dbadmin:QYc3chSf@admin.tofgl.mongodb.net/link?retryWrites=true&w=majority",
+    "mongoURI": "",
     "baseUrl": "http://localhost:5000"
 }
