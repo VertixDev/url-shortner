@@ -19,9 +19,7 @@ A open source JavaScript, MongoDB url shortner for the world to use. [Created By
 
 ### Built With
 
-* HTML
-* CSS
-* JS
+* JavaScript
 
 
 <!-- GETTING STARTED -->
